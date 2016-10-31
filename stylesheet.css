@@ -1,0 +1,86 @@
+#header {
+	width: 96%;
+	padding: 2%;
+	float: left;
+	background-color: #b3b3b3;
+}
+
+
+.middle {  
+    width: 96%;
+    padding: 0 2%;
+    background-color: #f2f2f2;
+    float: left;
+}
+#footer {
+    position: relative;
+    height: 50px;
+    background-color: #b3b3b3;
+    width: 100%;
+    clear: both;
+    float; left;
+}
+
+h1 { 
+    text-align: left;
+   font-family: 'Bree Serif', serif;
+    color: #660033;
+    padding: 0;
+    margin: 0;
+}
+
+#contact {
+    text-align: left;
+    font-family: Verdana;
+    color: #002b80;
+    font-size: 14px;
+    
+}
+
+#strengths {
+    text-align: left;
+    font-family: Verdana;
+    color: #660033;
+    font-size: 13px;
+    font-style: italic;
+}
+
+#summary {
+    text-align: left;
+    font-family: Verdana;
+    color: #000000;
+    font-size: 13px;
+    padding-left: 10px;
+}
+
+h4 {
+    font-family: Verdana;
+    color: #660033;
+    margin: 20px 0px 0px 0px;
+    
+}
+
+li {
+    font-family: Verdana;
+    font-size: 13px;
+    color: #000000;
+}
+
+.bottom {
+    text-align: center;
+    font-family: Verdana;
+    color: #002b80;
+    font-size: 13px;
+    padding-top: 20px;
+}
+a:link {
+    font-family: Verdana;
+    font-size: 13px;
+    color: #002b80;
+}
+
+a:visited {
+    font-family: Verdana;
+    font-size: 13px;
+    color: #002b80;
+}
