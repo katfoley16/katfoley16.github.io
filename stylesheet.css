@@ -23,7 +23,8 @@
 
 h1 { 
     text-align: left;
-   font-family: 'Bree Serif', serif;
+    font-family: 'Bree Serif', serif;
+    font-style: bold;
     color: #660033;
     padding: 0;
     margin: 0;
