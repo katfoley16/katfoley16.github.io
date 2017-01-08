@@ -23,8 +23,7 @@
 
 h1 { 
     text-align: left;
-    font-family: 'Bree Serif', serif;
-    font-style: bold;
+    font-family: 'BioRhyme', serif;
     color: #660033;
     padding: 0;
     margin: 0;
@@ -55,7 +54,7 @@ h1 {
 }
 
 h4 {
-    font-family: 'Bree Serif', serif;
+    font-family: 'BioRhyme', serif;
     color: #660033;
     margin: 20px 0px 0px 0px;
     
